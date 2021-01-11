@@ -1,0 +1,9 @@
+variable ,input 
+Intervention ,Case management 
+Intervention ,Insecticide treated nets 
+Intervention ,Seasonal malaria chemotherapy 
+Intervention ,Intermittent Preventive Treatment in Pregnancy  
+Intervention ,Intermittent Preventive Treatment in Infants 
+Outcomes ,Prevalence 
+Outcomes ,Incidence 
+Outcomes ,Mortality 
